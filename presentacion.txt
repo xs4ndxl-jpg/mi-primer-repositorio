@@ -1,0 +1,3 @@
+Nombre: Sandel
+Proyecto: Introducción a GitHub
+Descripción: Primer archivo subido como práctica de control de versiones y trabajo colaborativo en GitHub.
